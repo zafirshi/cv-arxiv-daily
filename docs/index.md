@@ -8,15 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2023.08.02
-> Usage instructions: [here](./README.md#usage)
-
-## Table of Contents
-- [SLAM](#slam)
-- [SFM](#sfm)
-- [Visual Localization](#visual-localization)
-- [Keypoint Detection](#keypoint-detection)
-- [Image Matching](#image-matching)
-- [Nerf](#nerf)
+> Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
